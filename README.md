@@ -14,3 +14,5 @@ This repo includes begin to mastery SQL codes to preparing of learning SPRING BO
 
 - This path from app.patika.dev
 - Thanks a lot patika instructor family!
+
+## Completed course at 25/10/2022 now go on spring!
